@@ -1,0 +1,1147 @@
+{
+  "total_components": 35,
+  "total_training_samples": 107,
+  "total_test_samples": 95,
+  "components": [
+    {
+      "id": 1,
+      "training": [
+        {
+          "filename": "01050_00126.wav",
+          "path": "component1/A/01050_00126.wav"
+        },
+        {
+          "filename": "01103_00001.wav",
+          "path": "component1/A/01103_00001.wav"
+        },
+        {
+          "filename": "01614_00014.wav",
+          "path": "component1/A/01614_00014.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00236_00001(B).wav",
+          "path": "component1/00236_00001(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "04095_00012(A).wav",
+          "path": "component1/04095_00012(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "training": [
+        {
+          "filename": "01718_00001.wav",
+          "path": "component2/A/01718_00001.wav"
+        },
+        {
+          "filename": "02887_00021.wav",
+          "path": "component2/A/02887_00021.wav"
+        },
+        {
+          "filename": "03932_00214.wav",
+          "path": "component2/A/03932_00214.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "02890_00031(A).wav",
+          "path": "component2/02890_00031(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "07087_00009(B).wav",
+          "path": "component2/07087_00009(B).wav",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "training": [
+        {
+          "filename": "00520_00087.wav",
+          "path": "component3/A/00520_00087.wav"
+        },
+        {
+          "filename": "00607_00006.wav",
+          "path": "component3/A/00607_00006.wav"
+        },
+        {
+          "filename": "00901_00004.wav",
+          "path": "component3/A/00901_00004.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01548_00002(A).wav",
+          "path": "component3/01548_00002(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "08124_00014(B).wav",
+          "path": "component3/08124_00014(B).wav",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "training": [
+        {
+          "filename": "02275_00035.wav",
+          "path": "component4/A/02275_00035.wav"
+        },
+        {
+          "filename": "05106_00032.wav",
+          "path": "component4/A/05106_00032.wav"
+        },
+        {
+          "filename": "08022_00023.wav",
+          "path": "component4/A/08022_00023.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00458_00007(B).wav",
+          "path": "component4/00458_00007(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "07828_00054(A).wav",
+          "path": "component4/07828_00054(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "training": [
+        {
+          "filename": "01239_00012.wav",
+          "path": "component5/A/01239_00012.wav"
+        },
+        {
+          "filename": "07320_00003.wav",
+          "path": "component5/A/07320_00003.wav"
+        },
+        {
+          "filename": "07711_00018.wav",
+          "path": "component5/A/07711_00018.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01213_00007(B).wav",
+          "path": "component5/01213_00007(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "03269_00004(A).wav",
+          "path": "component5/03269_00004(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "training": [
+        {
+          "filename": "01849_00063.wav",
+          "path": "component6/A/01849_00063.wav"
+        },
+        {
+          "filename": "02035_00027.wav",
+          "path": "component6/A/02035_00027.wav"
+        },
+        {
+          "filename": "09031_00047.wav",
+          "path": "component6/A/09031_00047.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "06476_00080(A).wav",
+          "path": "component6/06476_00080(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "09146_00002(B).wav",
+          "path": "component6/09146_00002(B).wav",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "training": [
+        {
+          "filename": "00539_00007.wav",
+          "path": "component7/A/00539_00007.wav"
+        },
+        {
+          "filename": "04835_00014.wav",
+          "path": "component7/A/04835_00014.wav"
+        },
+        {
+          "filename": "09227_00002.wav",
+          "path": "component7/A/09227_00002.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "05623_00104(B).wav",
+          "path": "component7/05623_00104(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "08942_00023(A).wav",
+          "path": "component7/08942_00023(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "training": [
+        {
+          "filename": "00071.wav",
+          "path": "component8/A/00071.wav"
+        },
+        {
+          "filename": "03232_00071.wav",
+          "path": "component8/A/03232_00071.wav"
+        },
+        {
+          "filename": "05351_00006.wav",
+          "path": "component8/A/05351_00006.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "08955_00005(A).wav",
+          "path": "component8/08955_00005(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "09025_00027.wav",
+          "path": "component8/09025_00027.wav",
+          "type": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "training": [
+        {
+          "filename": "04736_00038.wav",
+          "path": "component9/A/04736_00038.wav"
+        },
+        {
+          "filename": "05932_00015.wav",
+          "path": "component9/A/05932_00015.wav"
+        },
+        {
+          "filename": "08335_00059.wav",
+          "path": "component9/A/08335_00059.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "05935_00006(A).wav",
+          "path": "component9/05935_00006(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "08445_00004(B).wav",
+          "path": "component9/08445_00004(B).wav",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "training": [
+        {
+          "filename": "01091_00036.wav",
+          "path": "component10/A/01091_00036.wav"
+        },
+        {
+          "filename": "05584_00016.wav",
+          "path": "component10/A/05584_00016.wav"
+        },
+        {
+          "filename": "07536_00009.wav",
+          "path": "component10/A/07536_00009.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "02939_00018(B).wav",
+          "path": "component10/02939_00018(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "04518_00088(A).wav",
+          "path": "component10/04518_00088(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "training": [
+        {
+          "filename": "02101_00024.wav",
+          "path": "component11/A/02101_00024.wav"
+        },
+        {
+          "filename": "05522_00068.wav",
+          "path": "component11/A/05522_00068.wav"
+        },
+        {
+          "filename": "08402_00036.wav",
+          "path": "component11/A/08402_00036.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00735_00052(A).wav",
+          "path": "component11/00735_00052(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "01798_00031(B).wav",
+          "path": "component11/01798_00031(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "05224_00003(A).wav",
+          "path": "component11/05224_00003(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "training": [
+        {
+          "filename": "00859_00135.wav",
+          "path": "component12/A/00859_00135.wav"
+        },
+        {
+          "filename": "04215_00007.wav",
+          "path": "component12/A/04215_00007.wav"
+        },
+        {
+          "filename": "07962_00058.wav",
+          "path": "component12/A/07962_00058.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01018_00095(B).wav",
+          "path": "component12/01018_00095(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "02569_00005(A).wav",
+          "path": "component12/02569_00005(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "06500_00035(A).wav",
+          "path": "component12/06500_00035(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "training": [
+        {
+          "filename": "00459_00049.wav",
+          "path": "component13/A/00459_00049.wav"
+        },
+        {
+          "filename": "07167_00065.wav",
+          "path": "component13/A/07167_00065.wav"
+        },
+        {
+          "filename": "08771_00222.wav",
+          "path": "component13/A/08771_00222.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "03249_00055(A).wav",
+          "path": "component13/03249_00055(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "04571_00030(B).wav",
+          "path": "component13/04571_00030(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "05467_00032(A).wav",
+          "path": "component13/05467_00032(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "training": [
+        {
+          "filename": "00690_00027.wav",
+          "path": "component14/A/00690_00027.wav"
+        },
+        {
+          "filename": "05860_00023.wav",
+          "path": "component14/A/05860_00023.wav"
+        },
+        {
+          "filename": "08685_00017.wav",
+          "path": "component14/A/08685_00017.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "03285_00015(A).wav",
+          "path": "component14/03285_00015(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "07230_00046(B).wav",
+          "path": "component14/07230_00046(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "07483_00013(A).wav",
+          "path": "component14/07483_00013(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "training": [
+        {
+          "filename": "00567_00020.wav",
+          "path": "component15/A/00567_00020.wav"
+        },
+        {
+          "filename": "05278_00063.wav",
+          "path": "component15/A/05278_00063.wav"
+        },
+        {
+          "filename": "07197_00005.wav",
+          "path": "component15/A/07197_00005.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00758_00128(A).wav",
+          "path": "component15/00758_00128(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "02015_00071(B).wav",
+          "path": "component15/02015_00071(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "07232_00042(A).wav",
+          "path": "component15/07232_00042(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "training": [
+        {
+          "filename": "00087_00056.wav",
+          "path": "component16/A/00087_00056.wav"
+        },
+        {
+          "filename": "01492_00006.wav",
+          "path": "component16/A/01492_00006.wav"
+        },
+        {
+          "filename": "08074_00031.wav",
+          "path": "component16/A/08074_00031.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01973_00018(A).wav",
+          "path": "component16/01973_00018(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "04917_00068(B).wav",
+          "path": "component16/04917_00068(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "06117_00084(A).wav",
+          "path": "component16/06117_00084(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "training": [
+        {
+          "filename": "05644_00098.wav",
+          "path": "component17/A/05644_00098.wav"
+        },
+        {
+          "filename": "05843_00171.wav",
+          "path": "component17/A/05843_00171.wav"
+        },
+        {
+          "filename": "09234_00032.wav",
+          "path": "component17/A/09234_00032.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00286_00081(A).wav",
+          "path": "component17/00286_00081(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "06841_00181(B).wav",
+          "path": "component17/06841_00181(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "08362_00093(A).wav",
+          "path": "component17/08362_00093(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "training": [
+        {
+          "filename": "00758_00046.wav",
+          "path": "component18/A/00758_00046.wav"
+        },
+        {
+          "filename": "02924_00096.wav",
+          "path": "component18/A/02924_00096.wav"
+        },
+        {
+          "filename": "07646_00063.wav",
+          "path": "component18/A/07646_00063.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00567_00020(A).wav",
+          "path": "component18/00567_00020(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "00727_00002(B).wav",
+          "path": "component18/00727_00002(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "00806_00070(A).wav",
+          "path": "component18/00806_00070(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "training": [
+        {
+          "filename": "01124_00064.wav",
+          "path": "component19/A/01124_00064.wav"
+        },
+        {
+          "filename": "01544_00020.wav",
+          "path": "component19/A/01544_00020.wav"
+        },
+        {
+          "filename": "07628_00040.wav",
+          "path": "component19/A/07628_00040.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00188_00028(B).wav",
+          "path": "component19/00188_00028(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "01685_00096(A).wav",
+          "path": "component19/01685_00096(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "05977_00034(A).wav",
+          "path": "component19/05977_00034(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "training": [
+        {
+          "filename": "06207_00109.wav",
+          "path": "component20/A/06207_00109.wav"
+        },
+        {
+          "filename": "07635_00019.wav",
+          "path": "component20/A/07635_00019.wav"
+        },
+        {
+          "filename": "08218_00002.wav",
+          "path": "component20/A/08218_00002.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01513_00013(A).wav",
+          "path": "component20/01513_00013(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "04734_00008(B).wav",
+          "path": "component20/04734_00008(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "08783_00037(A).wav",
+          "path": "component20/08783_00037(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "training": [
+        {
+          "filename": "01006_00087.wav",
+          "path": "component21/A/01006_00087.wav"
+        },
+        {
+          "filename": "04642_00149.wav",
+          "path": "component21/A/04642_00149.wav"
+        },
+        {
+          "filename": "08398_00051.wav",
+          "path": "component21/A/08398_00051.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00274_00052(B).wav",
+          "path": "component21/00274_00052(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "08175_00089(A).wav",
+          "path": "component21/08175_00089(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "09092_00044(A).wav",
+          "path": "component21/09092_00044(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "training": [
+        {
+          "filename": "02193_00032.wav",
+          "path": "component22/A/02193_00032.wav"
+        },
+        {
+          "filename": "04388_00094.wav",
+          "path": "component22/A/04388_00094.wav"
+        },
+        {
+          "filename": "07875_00073.wav",
+          "path": "component22/A/07875_00073.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00314_00258(A).wav",
+          "path": "component22/00314_00258(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "05328_00057(A).wav",
+          "path": "component22/05328_00057(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "08638_00189(B).wav",
+          "path": "component22/08638_00189(B).wav",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "training": [
+        {
+          "filename": "02084_00041.wav",
+          "path": "component23/A/02084_00041.wav"
+        },
+        {
+          "filename": "06096_00079.wav",
+          "path": "component23/A/06096_00079.wav"
+        },
+        {
+          "filename": "07814_00084.wav",
+          "path": "component23/A/07814_00084.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "03073_00018(B).wav",
+          "path": "component23/03073_00018(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "05284_00067(A).wav",
+          "path": "component23/05284_00067(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "06529_00243(A).wav",
+          "path": "component23/06529_00243(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "training": [
+        {
+          "filename": "03299_00052.wav",
+          "path": "component24/A/03299_00052.wav"
+        },
+        {
+          "filename": "04963_00012.wav",
+          "path": "component24/A/04963_00012.wav"
+        },
+        {
+          "filename": "05188_00090.wav",
+          "path": "component24/A/05188_00090.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "02323_00078(A).wav",
+          "path": "component24/02323_00078(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "05145_00025(B).wav",
+          "path": "component24/05145_00025(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "08094_00068(A).wav",
+          "path": "component24/08094_00068(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "training": [
+        {
+          "filename": "00827_00014.wav",
+          "path": "component25/A/00827_00014.wav"
+        },
+        {
+          "filename": "02569_00032.wav",
+          "path": "component25/A/02569_00032.wav"
+        },
+        {
+          "filename": "03581_00049.wav",
+          "path": "component25/A/03581_00049.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00277_00069(A).wav",
+          "path": "component25/00277_00069(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "01048_00057(B).wav",
+          "path": "component25/01048_00057(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "01758_00045(A).wav",
+          "path": "component25/01758_00045(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "training": [
+        {
+          "filename": "06941_00015.wav",
+          "path": "component26/A/06941_00015.wav"
+        },
+        {
+          "filename": "08285_00026.wav",
+          "path": "component26/A/08285_00026.wav"
+        },
+        {
+          "filename": "08658_00057.wav",
+          "path": "component26/A/08658_00057.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "05188_00027(B).wav",
+          "path": "component26/05188_00027(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "05993_00325(A).wav",
+          "path": "component26/05993_00325(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "07625_00141(A).wav",
+          "path": "component26/07625_00141(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "training": [
+        {
+          "filename": "01750_00132.wav",
+          "path": "component27/A/01750_00132.wav"
+        },
+        {
+          "filename": "02897_00103.wav",
+          "path": "component27/A/02897_00103.wav"
+        },
+        {
+          "filename": "08685_00018.wav",
+          "path": "component27/A/08685_00018.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "03038_00003(A).wav",
+          "path": "component27/03038_00003(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "08209_00104(B).wav",
+          "path": "component27/08209_00104(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "08438_00036(A).wav",
+          "path": "component27/08438_00036(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "training": [
+        {
+          "filename": "04745_00079.wav",
+          "path": "component28/A/04745_00079.wav"
+        },
+        {
+          "filename": "05799_00024.wav",
+          "path": "component28/A/05799_00024.wav"
+        },
+        {
+          "filename": "07408_00045.wav",
+          "path": "component28/A/07408_00045.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "00898_00062(B).wav",
+          "path": "component28/00898_00062(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "07525_00053(A).wav",
+          "path": "component28/07525_00053(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "08198_00008(A).wav",
+          "path": "component28/08198_00008(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "training": [
+        {
+          "filename": "00615_00031.wav",
+          "path": "component29/A/00615_00031.wav"
+        },
+        {
+          "filename": "07284_00135.wav",
+          "path": "component29/A/07284_00135.wav"
+        },
+        {
+          "filename": "09065_00014.wav",
+          "path": "component29/A/09065_00014.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "05942_00025(B).wav",
+          "path": "component29/05942_00025(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "06268_00158(A).wav",
+          "path": "component29/06268_00158(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "08099_00003(A).wav",
+          "path": "component29/08099_00003(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "training": [
+        {
+          "filename": "00378_00362.wav",
+          "path": "component30/A/00378_00362.wav"
+        },
+        {
+          "filename": "01069_00208.wav",
+          "path": "component30/A/01069_00208.wav"
+        },
+        {
+          "filename": "07008_00182.wav",
+          "path": "component30/A/07008_00182.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "02089_00168(A).wav",
+          "path": "component30/02089_00168(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "02544_00013(B).wav",
+          "path": "component30/02544_00013(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "06518_00137(A).wav",
+          "path": "component30/06518_00137(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "training": [
+        {
+          "filename": "00366_00071.wav",
+          "path": "component31/A/00366_00071.wav"
+        },
+        {
+          "filename": "00542_00003.wav",
+          "path": "component31/A/00542_00003.wav"
+        },
+        {
+          "filename": "01803_00026.wav",
+          "path": "component31/A/01803_00026.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01436_00020(B).wav",
+          "path": "component31/01436_00020(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "03427_00155(A).wav",
+          "path": "component31/03427_00155(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "08950_00047(A).wav",
+          "path": "component31/08950_00047(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "training": [
+        {
+          "filename": "00391_00045.wav",
+          "path": "component32/A/00391_00045.wav"
+        },
+        {
+          "filename": "00561_00041.wav",
+          "path": "component32/A/00561_00041.wav"
+        },
+        {
+          "filename": "02981_00037.wav",
+          "path": "component32/A/02981_00037.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01061_00144(A).wav",
+          "path": "component32/01061_00144(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "02008_002809(A).wav",
+          "path": "component32/02008_002809(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "05869_00059(B).wav",
+          "path": "component32/05869_00059(B).wav",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "training": [
+        {
+          "filename": "03400_00010.wav",
+          "path": "component33/A/03400_00010.wav"
+        },
+        {
+          "filename": "04814_00096.wav",
+          "path": "component33/A/04814_00096.wav"
+        },
+        {
+          "filename": "07694_00026.wav",
+          "path": "component33/A/07694_00026.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "01062_00029(B).wav",
+          "path": "component33/01062_00029(B).wav",
+          "type": "B"
+        },
+        {
+          "filename": "04175_00035(A).wav",
+          "path": "component33/04175_00035(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "06914_00069(A).wav",
+          "path": "component33/06914_00069(A).wav",
+          "type": "A"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "training": [
+        {
+          "filename": "02829_00038.wav",
+          "path": "component34/A/02829_00038.wav"
+        },
+        {
+          "filename": "04778_00013.wav",
+          "path": "component34/A/04778_00013.wav"
+        },
+        {
+          "filename": "08002_00025.wav",
+          "path": "component34/A/08002_00025.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "02721_00130(A).wav",
+          "path": "component34/02721_00130(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "05960_00043(A).wav",
+          "path": "component34/05960_00043(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "06945_00105(B).wav",
+          "path": "component34/06945_00105(B).wav",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "training": [
+        {
+          "filename": "00052_00040.wav",
+          "path": "component35/A/00052_00040.wav"
+        },
+        {
+          "filename": "04398_00042.wav",
+          "path": "component35/A/04398_00042.wav"
+        },
+        {
+          "filename": "05864_00031.wav",
+          "path": "component35/A/05864_00031.wav"
+        }
+      ],
+      "test": [
+        {
+          "filename": "02629_00012(A).wav",
+          "path": "component35/02629_00012(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "03425_00081(A).wav",
+          "path": "component35/03425_00081(A).wav",
+          "type": "A"
+        },
+        {
+          "filename": "04165_00067(B).wav",
+          "path": "component35/04165_00067(B).wav",
+          "type": "B"
+        }
+      ]
+    }
+  ]
+}
